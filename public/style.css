@@ -1,0 +1,13 @@
+/* Tùy chỉnh hiệu ứng chuyển động mượt mà */
+.todo-item-transition {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Hiệu ứng gạch ngang khi hoàn thành */
+.completed-line-through {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+```
+
+---
