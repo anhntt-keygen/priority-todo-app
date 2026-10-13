@@ -1,0 +1,20 @@
+{
+  "name": "priority-todo-app",
+  "version": "1.0.0",
+  "description": "Priority Todo App with LocalStorage and Backend Sync",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.1"
+  }
+}
+```
+
+---
